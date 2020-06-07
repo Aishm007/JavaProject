@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8327" started-at="2020-06-06T16:31:11 MST" finished-at="2020-06-06T16:31:20 MST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8327" started-at="2020-06-06T16:31:11 MST" finished-at="2020-06-06T16:31:20 MST">
+      <class name="seleniumtests.ExtentReportTestNG">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:seleniumtests.ExtentReportTestNG@6895a785]" name="SetUp" is-config="true" duration-ms="114" started-at="2020-06-06T16:31:11 MST" finished-at="2020-06-06T16:31:11 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:seleniumtests.ExtentReportTestNG@6895a785]" name="beforeTest" is-config="true" duration-ms="2609" started-at="2020-06-06T16:31:11 MST" finished-at="2020-06-06T16:31:14 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ExtenReportTest()[pri:0, instance:seleniumtests.ExtentReportTestNG@6895a785]" name="ExtenReportTest" duration-ms="5660" started-at="2020-06-06T16:31:14 MST" finished-at="2020-06-06T16:31:20 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtenReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumtests.ExtentReportTestNG@6895a785]" name="tearDown" is-config="true" duration-ms="774" started-at="2020-06-06T16:31:20 MST" finished-at="2020-06-06T16:31:20 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- seleniumtests.ExtentReportTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
